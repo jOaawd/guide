@@ -41,3 +41,5 @@ Choose the server you want to add it to and click "Authorize". Do note that you'
 Congratulations! You've successfully added your bot to your Discord server. It should show up in your server's member list somewhat like this:
 
 ![Bot in server's member list](./images/bot-in-memberlist.png)
+
+Also make sure to SUB HIS CHANNEL (IDK his channel But soonnnnnn)
